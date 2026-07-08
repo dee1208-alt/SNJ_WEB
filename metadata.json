@@ -1,0 +1,6 @@
+{
+  "name": "Sanjeevini",
+  "description": "Premium pet healthcare and supplies platform in Mysore, Karnataka. Book veterinary appointments, order medicines, food, and essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

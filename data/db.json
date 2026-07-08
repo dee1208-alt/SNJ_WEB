@@ -1,0 +1,470 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Royal Canin Maxi Puppy Dry Dog Food",
+      "category": "Dog Food",
+      "subCategory": "Dog Food",
+      "price": 1450,
+      "originalPrice": 1600,
+      "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 42,
+      "inventoryStatus": "In Stock",
+      "stockCount": 25,
+      "description": "Premium dry food tailored specifically for large breed puppies (adult weight 26 to 44 kg) up to 15 months old. Supports healthy muscle growth, bone development, and strong digestive health during their critical early growth phase.",
+      "specifications": {
+        "Brand": "Royal Canin",
+        "Target Breed Size": "Large Breed (Puppy)",
+        "Weight": "4 kg",
+        "Life Stage": "Puppy (up to 15 months)",
+        "Flavour": "Poultry & Rice"
+      },
+      "ingredients": [
+        "Dehydrated poultry protein",
+        "Rice",
+        "Maize flour",
+        "Animal fats",
+        "Wheat gluten",
+        "Beet pulp",
+        "Fish oil"
+      ],
+      "directions": "Feed according to the recommended daily allowance chart printed on the package. Always provide fresh, clean drinking water for your puppy.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-2",
+      "name": "Whiskas Premium Adult Cat Dry Food (Salmon)",
+      "category": "Cat Food",
+      "subCategory": "Cat Food",
+      "price": 480,
+      "originalPrice": 520,
+      "image": "https://images.unsplash.com/photo-1569591159212-b02ea8a9f239?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 38,
+      "inventoryStatus": "In Stock",
+      "stockCount": 40,
+      "description": "Nutritious and delicious dry kibbles with high-quality protein from real salmon, enriched with omega-6 fatty acids and zinc to support a lustrous coat. Specially formulated for adult cats above 1 year.",
+      "specifications": {
+        "Brand": "Whiskas",
+        "Target Pet": "Cat",
+        "Weight": "1.2 kg",
+        "Life Stage": "Adult (1+ years)",
+        "Flavour": "Salmon & Poultry"
+      },
+      "ingredients": [
+        "Cereals (Corn and/or Wheat)",
+        "Poultry by-product meal",
+        "Salmon meal",
+        "Soybean meal",
+        "Oils & fats",
+        "Vitamins & minerals"
+      ],
+      "directions": "Feed 40-75g daily depending on cat weight. Split into two meals. Ensure access to plenty of water.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-3",
+      "name": "Himalaya Liv.52 Vet Liquid Supplement",
+      "category": "Veterinary Medicines",
+      "subCategory": "Supplements",
+      "price": 190,
+      "originalPrice": 210,
+      "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 85,
+      "inventoryStatus": "In Stock",
+      "stockCount": 50,
+      "description": "A trusted herbal liver stimulant and hepatoprotective syrup for dogs and cats. Promotes appetite, improves digestive assimilation, protects liver from toxins and drugs, and aids recovery from jaundice or illness.",
+      "specifications": {
+        "Brand": "Himalaya Herbals",
+        "Category": "Hepatoprotective / Liver Tonic",
+        "Volume": "200 ml",
+        "Form": "Liquid",
+        "Suitable For": "Dogs & Cats"
+      },
+      "ingredients": [
+        "Himsra (Capparis spinosa)",
+        "Kasani (Cichorium intybus)",
+        "Kakamachi (Solanum nigrum)",
+        "Arjuna (Terminalia arjuna)"
+      ],
+      "directions": "Dogs: Small breeds - 5-10 ml twice daily. Large breeds - 15-20 ml twice daily. Cats: 3-5 ml twice daily, or as directed by your veterinarian.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-4",
+      "name": "Megaflex Premium Joint & Cartilage Supplement",
+      "category": "Veterinary Medicines",
+      "subCategory": "Supplements",
+      "price": 1250,
+      "originalPrice": 1400,
+      "image": "https://images.unsplash.com/photo-1607619056574-7b8d304f3b24?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 24,
+      "inventoryStatus": "Low Stock",
+      "stockCount": 5,
+      "description": "Advanced nutritional supplement containing Glucosamine, Chondroitin, and Green Lipped Mussel to support joint health, alleviate stiffness, and enhance mobility in senior dogs, working breeds, and post-surgery recovering pets.",
+      "specifications": {
+        "Brand": "Bayer / Vetoquinol",
+        "Target Pet": "Dogs & Cats",
+        "Weight": "250g Powder",
+        "Purpose": "Joint Wear and Tear"
+      },
+      "ingredients": [
+        "Glucosamine HCl",
+        "Chondroitin Sulfate",
+        "New Zealand Green Lipped Mussel",
+        "Gelatin hydrolysate",
+        "Omega-3 fatty acids"
+      ],
+      "directions": "Mix into standard food. Weight up to 10kg: 1g/day. 10-20kg: 2g/day. Above 20kg: 4g/day. Measuring scoop included.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-5",
+      "name": "Premium Orthopedic Memory Foam Dog Bed (Large)",
+      "category": "Pet Essentials",
+      "subCategory": "Beds",
+      "price": 2800,
+      "originalPrice": 3200,
+      "image": "https://images.unsplash.com/photo-1541599540903-216a46ca1da0?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.9,
+      "reviewsCount": 16,
+      "inventoryStatus": "In Stock",
+      "stockCount": 12,
+      "description": "Ultra-plush medical grade memory foam dog bed designed to contour to your pet's joints for ultimate comfort. Features a removable, water-resistant, machine-washable soft suede cover and an anti-slip grip bottom.",
+      "specifications": {
+        "Brand": "Sanjeevini Curated",
+        "Dimensions": "90 x 70 x 12 cm",
+        "Material": "Memory Foam & Suede Cover",
+        "Size": "Large (Ideal for Golden Retrievers, Labradors)"
+      },
+      "directions": "Unpack and allow 24 hours to fully expand. Hand or machine-wash the outer cover in cold water on gentle cycle.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-6",
+      "name": "Ergonomic Non-Slip Double Pet Bowl",
+      "category": "Pet Essentials",
+      "subCategory": "Bowls",
+      "price": 650,
+      "originalPrice": 750,
+      "image": "https://images.unsplash.com/photo-1591946614720-90a587da4a36?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 21,
+      "inventoryStatus": "In Stock",
+      "stockCount": 18,
+      "description": "Premium dual-bowl station crafted with food-grade stainless steel bowls housed in a durable, elevated non-spill silicone stand. Elevated design relieves neck strain and prevents mealtime messes.",
+      "specifications": {
+        "Brand": "Sanjeevini Home",
+        "Capacity": "400ml per bowl",
+        "Material": "Stainless Steel & Premium Silicone",
+        "Color": "Slate Grey"
+      },
+      "directions": "Wash bowls with soap and warm water before first use. Stainless bowls are dishwasher-safe.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-7",
+      "name": "Adjustable Reflective Nylon Leash & Harness Set",
+      "category": "Pet Essentials",
+      "subCategory": "Leashes",
+      "price": 890,
+      "originalPrice": 990,
+      "image": "https://images.unsplash.com/photo-1615087240969-eeff2fa558f2?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.7,
+      "reviewsCount": 29,
+      "inventoryStatus": "In Stock",
+      "stockCount": 15,
+      "description": "Heavy-duty reflective nylon leash and padded chest harness combo. Designed for optimal pull control, comfortable pressure distribution, and maximum evening visibility with highly reflective stitching.",
+      "specifications": {
+        "Brand": "Sanjeevini Curated",
+        "Leash Length": "1.5 Meters",
+        "Harness Size": "Medium (Adjustable 50-70 cm chest)",
+        "Material": "Reflective Nylon & Zinc Alloy D-Ring"
+      },
+      "directions": "Secure around pet's chest, ensuring a 2-finger space for comfort. Clip leash to back D-ring for a pull-controlled walk.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-8",
+      "name": "Trixie Premium Catnip Play Mice (3 Pack)",
+      "category": "Pet Essentials",
+      "subCategory": "Toys",
+      "price": 320,
+      "originalPrice": 350,
+      "image": "https://images.unsplash.com/photo-1545249390-6bdfa286032f?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.4,
+      "reviewsCount": 15,
+      "inventoryStatus": "In Stock",
+      "stockCount": 30,
+      "description": "Entertaining catnip-stuffed fabric mouse toys that stimulate your cat's natural hunting instincts. Promotes healthy exercise, play, and mental enrichment for indoor felines.",
+      "specifications": {
+        "Brand": "Trixie",
+        "Pack Size": "3 Mice",
+        "Filling": "Premium Organic Catnip & Fiberfill",
+        "Length": "8 cm per mouse"
+      },
+      "directions": "Present to your cat during playtime. Inspect regularly and replace if any part becomes detached or loose.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-9",
+      "name": "Organic Neem & Aloe Grooming Shampoo",
+      "category": "Pet Essentials",
+      "subCategory": "Shampoo",
+      "price": 380,
+      "originalPrice": 420,
+      "image": "https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 46,
+      "inventoryStatus": "In Stock",
+      "stockCount": 20,
+      "description": "Soothing therapeutic pet shampoo formulated with 100% natural cold-pressed neem oil and fresh aloe vera extract. Gently cleanses, conditions, relieves itchy dry skin, and naturally repels fleas, ticks, and mites.",
+      "specifications": {
+        "Brand": "Sanjeevini Curated",
+        "Volume": "400 ml",
+        "pH Balanced": "Yes (7.0 - safe for pets)",
+        "Chemicals": "Sulfate-Free & Paraben-Free"
+      },
+      "directions": "Wet coat thoroughly with warm water. Apply a generous amount and massage into a rich lather. Leave on for 5 minutes before rinsing completely.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-10",
+      "name": "Vitapol Premium Cockatiel & Lovebird Seed Mix",
+      "category": "Pet Food",
+      "subCategory": "Bird Food",
+      "price": 290,
+      "originalPrice": 320,
+      "image": "https://images.unsplash.com/photo-1522850959516-58f958dde2c1?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.6,
+      "reviewsCount": 18,
+      "inventoryStatus": "In Stock",
+      "stockCount": 16,
+      "description": "Vitamins and minerals enriched multi-seed dietary formula specifically curated for cockatiels, lovebirds, and small parrots. Contains premium-grade seeds, millet, and sun-dried fruits to promote vital immunity and vibrant feather health.",
+      "specifications": {
+        "Brand": "Vitapol",
+        "Target Pet": "Cockatiel / Lovebird / Parakeet",
+        "Weight": "500 g",
+        "Type": "Daily Grain Diet"
+      },
+      "ingredients": [
+        "Yellow millet",
+        "Red millet",
+        "Canary grass seed",
+        "Safflower seed",
+        "Sunflower seed",
+        "Dehydrated apple"
+      ],
+      "directions": "Feed 2-3 tablespoons daily in a clean seed dispenser. Remove daily husk remains.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-11",
+      "name": "Taiyo Growth Enhancer Fish Flakes",
+      "category": "Pet Food",
+      "subCategory": "Fish Food",
+      "price": 140,
+      "originalPrice": 160,
+      "image": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.5,
+      "reviewsCount": 22,
+      "inventoryStatus": "In Stock",
+      "stockCount": 35,
+      "description": "High-protein daily floating flakes formulated to boost color vibrancy and promote healthy skeleton growth in tropical aquarium fish. Specially manufactured to resist water clouding and ensure high digestibility.",
+      "specifications": {
+        "Brand": "Taiyo",
+        "Target Pet": "Tropical Fish (Guppy, Betta, Goldfish)",
+        "Weight": "100 g",
+        "Form": "Flakes"
+      },
+      "ingredients": [
+        "White fish meal",
+        "Shrimp meal",
+        "Spirulina",
+        "Wheat germ",
+        "Carotene",
+        "Multi-vitamins"
+      ],
+      "directions": "Feed 2-3 times daily, only as much as fish can consume within 5 minutes. Do not overfeed.",
+      "deliveryDaysEstimate": 1
+    },
+    {
+      "id": "prod-12",
+      "name": "Savical Pet Calcium & Phosphorus Syrup",
+      "category": "Veterinary Medicines",
+      "subCategory": "Supplements",
+      "price": 310,
+      "originalPrice": 340,
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviewsCount": 33,
+      "inventoryStatus": "In Stock",
+      "stockCount": 25,
+      "description": "Essential nutritional syrup supplying crucial Calcium, Phosphorus, Vitamin D3, and B12. Vital for pregnant or lactating mothers, growing puppies, and preventing rickets or osteomalacia.",
+      "specifications": {
+        "Brand": "Savavet",
+        "Form": "Syrup",
+        "Volume": "200 ml",
+        "Primary Goal": "Bone and Teeth Strength"
+      },
+      "ingredients": [
+        "Calcium gluconate",
+        "Phosphorus",
+        "Vitamin D3",
+        "Vitamin B12"
+      ],
+      "directions": "Puppies: 5ml twice daily. Adult Dogs: 10ml twice daily. Cats: 2.5ml twice daily. Feed directly or mix into meals.",
+      "deliveryDaysEstimate": 1
+    }
+  ],
+  "clinics": [
+    {
+      "id": "clinic-1",
+      "name": "Sanjeevini Premium Veterinary Hub",
+      "address": "45/A, Gokulam 3rd Stage, Near Contour Road, Mysore",
+      "area": "Gokulam",
+      "phone": "+91 821 2415901",
+      "rating": 4.9,
+      "reviewsCount": 154,
+      "image": "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "clinic-2",
+      "name": "Mysore Pet Hospital & Diagnostics",
+      "address": "12, Devaraj Urs Road, Opp. Olympic Sports, Mysore",
+      "area": "Devaraj Urs Road",
+      "phone": "+91 821 2424888",
+      "rating": 4.8,
+      "reviewsCount": 92,
+      "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "clinic-3",
+      "name": "Kuvempunagar Animal Wellness Clinic",
+      "address": "88, M-Block, Double Road, Kuvempunagar, Mysore",
+      "area": "Kuvempunagar",
+      "phone": "+91 821 2543112",
+      "rating": 4.7,
+      "reviewsCount": 78,
+      "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "clinic-4",
+      "name": "Chamundipuram Veterinary Center",
+      "address": "213, Chamundeshwari Temple Road, Chamundipuram, Mysore",
+      "area": "Chamundipuram",
+      "phone": "+91 821 2489000",
+      "rating": 4.6,
+      "reviewsCount": 54,
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "doc-1",
+      "clinicId": "clinic-1",
+      "name": "Dr. Sanjana Gowda",
+      "qualification": "BVSc & AH, MVSc (Veterinary Surgery & Radiology)",
+      "experience": 12,
+      "specialization": "Orthopedic & Soft Tissue Surgery",
+      "languages": ["Kannada", "English", "Hindi"],
+      "fees": 450,
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=400&h=400&q=80",
+      "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "timeSlots": ["09:00 AM", "10:00 AM", "11:00 AM", "04:30 PM", "05:30 PM", "06:30 PM"],
+      "rating": 4.9
+    },
+    {
+      "id": "doc-2",
+      "clinicId": "clinic-1",
+      "name": "Dr. Preeti Rao",
+      "qualification": "BVSc & AH, MVSc (Canine Preventive Health)",
+      "experience": 10,
+      "specialization": "Feline & Canine Medicine, Allergy Specialist",
+      "languages": ["Kannada", "English", "Telugu"],
+      "fees": 400,
+      "image": "https://images.unsplash.com/photo-1594824813573-246434de83fb?auto=format&fit=crop&w=400&h=400&q=80",
+      "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Sunday"],
+      "timeSlots": ["10:00 AM", "11:00 AM", "12:00 PM", "03:00 PM", "04:00 PM", "05:00 PM"],
+      "rating": 4.8
+    },
+    {
+      "id": "doc-3",
+      "clinicId": "clinic-2",
+      "name": "Dr. Rakesh Prasad",
+      "qualification": "BVSc & AH, PG Diploma in Small Animal Cardiology",
+      "experience": 16,
+      "specialization": "Small Animal Cardiology & Emergency Care",
+      "languages": ["Kannada", "English"],
+      "fees": 500,
+      "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&w=400&h=400&q=80",
+      "availableDays": ["Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "timeSlots": ["09:30 AM", "10:30 AM", "11:30 AM", "05:00 PM", "06:00 PM", "07:00 PM"],
+      "rating": 4.9
+    },
+    {
+      "id": "doc-4",
+      "clinicId": "clinic-3",
+      "name": "Dr. Amit Kumar",
+      "qualification": "BVSc & AH, MVSc (Veterinary Pharmacology)",
+      "experience": 8,
+      "specialization": "Dermatology & Internal Medicine",
+      "languages": ["English", "Hindi", "Kannada"],
+      "fees": 350,
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&w=400&h=400&q=80",
+      "availableDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "timeSlots": ["10:00 AM", "11:30 AM", "04:00 PM", "05:00 PM", "06:00 PM"],
+      "rating": 4.7
+    }
+  ],
+  "appointments": [],
+  "orders": [],
+  "partners": [],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "productId": "prod-1",
+      "userName": "Deepak Gowda",
+      "rating": 5,
+      "comment": "My puppy loves this. Genuine product and fast delivery across Mysore!",
+      "date": "2026-06-15"
+    },
+    {
+      "id": "rev-2",
+      "productId": "prod-3",
+      "userName": "Meghana M.",
+      "rating": 5,
+      "comment": "Excellent liver tonic. Recommended by our vet at Sanjeevini clinic, helped my dog recover within a week.",
+      "date": "2026-06-28"
+    }
+  ],
+  "coupons": [
+    { "code": "MYSORE20", "discount": 20, "description": "Get 20% off on premium veterinary medicines" },
+    { "code": "SANJEEVINI10", "discount": 10, "description": "Get 10% off flat storewide" },
+    { "code": "FREESHIP", "discount": 100, "description": "Free doorstep delivery across Mysore on orders above ₹500" }
+  ],
+  "users": [
+    {
+      "id": "user-demo",
+      "email": "petparent@mysore.com",
+      "fullName": "Srinivas Prasad",
+      "phone": "+91 9845012345",
+      "addresses": [
+        {
+          "id": "addr-1",
+          "fullName": "Srinivas Prasad",
+          "phone": "+91 9845012345",
+          "addressLine1": "No. 124, 4th Cross",
+          "addressLine2": "Contour Road, Gokulam 3rd Stage",
+          "pinCode": "570002",
+          "landmark": "Near Doctors Corner",
+          "isDefault": true
+        }
+      ],
+      "wishlist": ["prod-1", "prod-3"]
+    }
+  ]
+}
